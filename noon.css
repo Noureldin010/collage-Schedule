@@ -1,0 +1,84 @@
+body{
+    
+    background-image:url(business.jpg) ;
+    background-size: 500px;
+}
+.form-input{
+    float: left;
+    border: 5px silver;
+    width: 300px;
+    height: 700px;
+    padding: auto;
+    text-align: center;
+    background-color: rgb(187, 180, 169);}
+.img img{
+    width: 150px;
+     height: 150px;
+}
+#info{
+
+
+font-weight: bold;
+
+}
+input{
+    padding: 4px;
+    border: 2px solid black;
+    text-align: center;
+}
+#tb{
+    float: right;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: black;
+    color: white;
+
+}
+#tb th{
+    background-color: darkblue;
+   width: 230px;
+    color: white;
+}
+main{
+   
+    text-align: center;
+
+}
+#lik{
+
+    border: 1px solid white;
+    background-color: darkblue;
+    color: red;
+}
+#but button{
+    width: 150px;
+    padding: 8px;
+    margin-top:12px ;
+    font-weight: bold;
+
+}
+#add:hover,#del:hover{
+    background-color: rgb(30, 30, 146);
+    box-shadow: 1px 1px 10px gray;
+
+
+}
+.center4{
+    position:absolute;
+    top:95%;
+    left:90%;
+    transform: translate(-40%,-80%);
+    font-family: sans-serif;
+    user-select: none;
+}
+.button4 button{
+	height:100px;
+	width:150px;
+	font-size:30px;
+	font-weight:bold;
+	color:rgb(213, 26, 26);
+	background: black;
+	border: 1px solid black;
+	outline: none;
+	cursor:pointer;
+	border-radius:20px;}

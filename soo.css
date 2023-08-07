@@ -1,0 +1,28 @@
+body{
+
+    background-image: url(wall.jpg);
+}
+.cmm{
+	width: 500px;
+	height: 550px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44, 62, 80,0.7);
+	margin-top: 160px; }
+    .cmm img{
+        width: 150px;
+        height: 150px;
+        
+    }
+    
+        
+
+    input[type="text"],input[type="password"]{
+        margin-top: 30px;
+        height: 45px;
+        width: 300px;
+        font-size: 18px;
+        margin-bottom: 20px;
+        background-color: #fff;
+        padding-left: 40px;
+    }

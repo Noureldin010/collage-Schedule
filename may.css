@@ -1,0 +1,49 @@
+body{
+    background-image:url(business.jpg) ;
+    background-size: 500px;
+
+}
+.center3{
+    position:absolute;
+    top:55%;
+    left:53%;
+    transform: translate(-40%,-80%);
+    font-family: sans-serif;
+    user-select: none;
+}
+.button3 button{
+	height:150px;
+	width:280px;
+	font-size:30px;
+	font-weight:bold;
+	color:rgb(213, 26, 26);
+	background: black;
+	border: 1px solid black;
+	outline: none;
+	cursor:pointer;
+	border-radius:80px;
+}
+    marquee{
+        float: right;
+        box-shadow: 5px 5px 10px black;
+        background-color: black;
+        color: white;}
+        .center4{
+            position:absolute;
+            top:95%;
+            left:90%;
+            transform: translate(-40%,-80%);
+            font-family: sans-serif;
+            user-select: none;
+        }
+        .button4 button{
+            height:100px;
+            width:150px;
+            font-size:30px;
+            font-weight:bold;
+            color:rgb(213, 26, 26);
+            background: black;
+            border: 1px solid black;
+            outline: none;
+            cursor:pointer;
+            border-radius:20px;}

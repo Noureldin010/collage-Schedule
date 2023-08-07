@@ -1,0 +1,24 @@
+body{
+    
+    background-image:url(business.jpg) ;
+    background-size: 500px;
+}
+
+#tb{
+    float: right;
+    border: 1px solid gray;
+    padding: 5px;
+    background-color: black;
+    color: white; 
+
+}
+#tb th{
+    background-color: darkblue;
+   width: 330px;
+    color: white;
+}
+main{
+   
+    text-align: center;
+
+}

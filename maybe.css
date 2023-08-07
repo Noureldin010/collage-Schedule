@@ -1,0 +1,77 @@
+body{
+    
+    background-image:url(business.jpg) ;
+    background-size: 500px;
+}
+marquee{
+    float: right;
+    box-shadow: 5px 5px 10px black;
+    background-color: rgb(212, 145, 145);
+    color: white;
+}
+.center .buttons{
+	margin:35px 280px;
+}
+.button1 button{
+	height:150px;
+	width:280px;
+	font-size:30px;
+	font-weight:bold;
+	color:rgb(229, 32, 32);
+	background: black;
+	border: 1px solid black;
+	outline: none;
+	cursor:pointer;
+	border-radius:80px;
+    text-align: center;
+	
+}
+.button2 button{
+	height:150px;
+	width:280px;
+	font-size:30px;
+	font-weight:bold;
+	color:rgb(191, 28, 28);
+	background: black;
+	border: 1px solid black;
+	outline: none;
+	cursor:pointer;
+	border-radius:80px;
+	
+}
+.button3 button{
+	height:150px;
+	width:280px;
+	font-size:30px;
+	font-weight:bold;
+	color:rgb(213, 26, 26);
+	background: black;
+	border: 1px solid black;
+	outline: none;
+	cursor:pointer;
+	border-radius:80px;
+	
+}
+.center1{
+	position:absolute;
+	top:50%;
+	left:45%;
+	transform: translate(-40%,-80%);
+	font-family: sans-serif;
+	user-select: none;}
+
+    .center2{
+        position:absolute;
+        top:50%;
+        left:66%;
+        transform: translate(-40%,-80%);
+        font-family: sans-serif;
+        user-select: none;}
+        .center3{
+            position:absolute;
+            top:50%;
+            left:25%;
+            transform: translate(-40%,-80%);
+            font-family: sans-serif;
+            user-select: none;
+        }

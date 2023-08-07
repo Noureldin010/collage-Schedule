@@ -1,0 +1,75 @@
+body{
+
+    background-image: url(wall.jpg);
+    background-repeat: none;
+     
+}
+.cmm{
+	width: 500px;
+	height: 550px;
+	text-align: center;
+	margin: 0 auto;
+	background-color: rgba(44, 62, 80,0.7);
+	margin-top: 160px; }
+    .cmm img{
+        width: 150px;
+        height: 150px;
+        
+    }
+    
+        
+
+    input[type="text"],input[type="password"]{
+        margin-top: 30px;
+        height: 45px;
+        width: 300px;
+        font-size: 18px;
+        margin-bottom: 20px;
+        background-color: #fff;
+        padding-left: 40px;
+    }
+    #b1{
+        font-size: 18px;
+        border-radius: 0px 66px 66px 0px;
+        width: 40px;
+        outline: none;
+        background-color: black;
+        position: fixed;
+        top: 8px;
+        border:1px solid silver;
+
+        right: 1448px;
+
+
+    }
+    #b2{
+        
+        font-size: 18px;
+        border-radius:66px 0px 0px 66px;
+        width: 40px;
+        outline: none;
+        background-color: black;
+        position: fixed;
+
+        border:1px solid silver;
+        top: 8px;
+    }
+    #b1:hover,#b2:hover{
+        background-color: white;
+        box-shadow: 1px 1px 10px gray;
+
+    }
+    #butto{
+
+        background-color: white;
+    }
+    #butto:hover{
+      background-color:  rgb(64, 151, 64);
+      box-shadow: 1px 1px 10px gray;
+    }
+    /*
+   input[type=checkbox]:checked +label:before{
+
+    background-color: mediumseagreen;
+    color: #fff;
+   }*/
